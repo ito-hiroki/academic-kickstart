@@ -10,32 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Bachelor of Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tokyo Metropolitan University
+  url: "https://www.tmu.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Goldfish at world! Student and resercher on image processing.
 
 interests:
-- Artificial Intelligence
+- Machine learning
 - Image Processing
-- Privacy preserving
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Engineering
+    institution: Tokyo Metropolitan University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,9 +44,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ito-hiroki
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:hiroki.i0307@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,6 +64,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+世界を股にかけたいM1の金魚。  
+研究分野は、Deep learning, Adversarial example, Privacy preservingなど。  
+Kaggle、競技プログラミングを頑張りたい.  
+2020年1月現在、AtCoderは緑、KaggleはKernel Expert。  
+Competition medalも取っていきたい所存。  

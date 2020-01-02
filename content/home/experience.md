@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -18,27 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Bachelor"
+  company = "Tokyo Metro. Univ."
+  company_url = "https://www.tmu.ac.jp/"
+  location = "Tokyo"
+  date_start = "2018-04-01"
   date_end = ""
   description = """
-  Responsibilities include:
+ Working on [Kiya Lab](http://www-isys.sd.tmu.ac.jp/).  
+ Research area:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Machine learning
+  * Adversarial example
+  * Privacy preserving
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Associate degree"
+  company = "Gifu NCT ( KOSEN )"
+  company_url = "https://www.gifu-nct.ac.jp/"
+  location = "Gifu, Japan"
+  date_start = "2013-04-01"
+  date_end = "2018-03-31"
+  description = """"""
 
 +++
