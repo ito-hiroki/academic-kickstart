@@ -35,7 +35,7 @@ date_format = "January 2, 2006"
 
 [[experience]]
   title = "Associate degree"
-  company = "Gifu NCT ( KOSEN )"
+  company = "Gifu NCT (KOSEN)"
   company_url = "https://www.gifu-nct.ac.jp/"
   location = "Gifu, Japan"
   date_start = "2013-04-01"

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hugoのインストールメモ"
+title: "Hugoのインストール"
 subtitle: ""
-summary: "Hugoのインストールメモ"
+summary: "Hugoをwindows10にインストールした時のメモ"
 authors: ["admin"]
 tags: ["memo", "Hugo"]
 categories: ["memo"]
@@ -27,8 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-# Hugoのインストールメモ
 
 基本的には[ココ](https://gohugo.io/getting-started/installing/#windows)を参考に進めば良い．
 

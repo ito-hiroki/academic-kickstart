@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-# 記事を新規作成する手順
-
 基本的には`hugo new`を使って，記事を新規作成する．
 
 1. `hugo new .\content\post\post_name.md`で新しい記事のmarkdownファイルが作成される．
