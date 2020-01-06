@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-世界を股にかけたいM1の金魚。  
+世界を股にかけたいB4。  
 研究分野は、Deep learning, Adversarial example, Privacy preservingなど。  
 Kaggle、競技プログラミングを頑張りたい.  
 2020年1月現在、AtCoderは緑、KaggleはKernel Expert。  
