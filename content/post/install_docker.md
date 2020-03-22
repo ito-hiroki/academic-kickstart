@@ -35,6 +35,7 @@ projects: []
 1. https://qiita.com/ksasaki/items/b20a785e1a0f610efa08
 1. https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-engine---community
 1. https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+1. https://github.com/NVIDIA/nvidia-docker/tree/master#quickstart
 
 ### リポジトリのセットアップ
 参考サイト2に書いてあることと同じ。  
@@ -76,7 +77,21 @@ sudo usermod -aG docker [ユーザ名]
 ```
 
 この後は再ログインしないと反映されないっぽいので注意！  
-sshで入ってるなら、一旦抜けて再接続すればok。  
+sshで入ってるなら、一旦抜けて再接続すればok。   
+
+
+### nvidia-container-toolkitのインストール
+参考サイト4に書いてあることと同じ。  
+sudoが行えるようにして以下を実行。   
+```
+# Add the package repositories
+distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
+curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add -
+curl -s -L https://nvidia.github.io/nvidia-docker/$distribution/nvidia-docker.list | sudo tee /etc/apt/sources.list.d/nvidia-docker.list
+
+sudo apt-get update && sudo apt-get install -y nvidia-container-toolkit
+sudo systemctl restart docker
+```
 
 
 
