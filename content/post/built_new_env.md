@@ -4,8 +4,8 @@
 title: "ブログの編集環境を新しく作る場合"
 subtitle: ""
 summary: ""
-authors: ["memo", "Hugo"]
-tags: []
+authors: []
+tags: ["memo", "Hugo"]
 categories: ["memo"]
 date: 2020-03-22T16:08:01+09:00
 lastmod: 2020-03-22T16:08:01+09:00
